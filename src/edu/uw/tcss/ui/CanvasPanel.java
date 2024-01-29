@@ -18,6 +18,7 @@ public class CanvasPanel extends JPanel {
     private final Ellipse2D myTarget;
     private final Line2D myConnection;
 
+    // TODO change the Type as needed
     private final Shape myArrowHead;
 
 
@@ -83,6 +84,7 @@ public class CanvasPanel extends JPanel {
         g2d.draw(myConnection);
 
 //      TODO  draw or fill the arrowhead here
+        g2d.setPaint(Color.YELLOW);
         g2d.fill(myArrowHead);
 //             --or--
 //        g2d.draw(myArrowHead);
