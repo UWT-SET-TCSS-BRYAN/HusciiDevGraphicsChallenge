@@ -14,6 +14,7 @@ In ui.CanvasPanel.java, calculate and draw an arrowhead that points to the Targe
 
 ### Notes: 
 
+* Fork this Repo. When solved, add me to present your eresults. **cfb3**
 * Click on the Source (blue) circle and drag it to move. The line adjusts accordingly, and so should the arrowhead. 
 * The arrowhead is represented by the instance field myArrowHead. Feel free to change the type. Path2d?
 * Add the calculations and adjustments to the method adjustArrowHead. Feel free to add Parameters and/or use access to instance fields. 
