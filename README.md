@@ -21,5 +21,5 @@ In ui.CanvasPanel.java, calculate and draw an arrowhead that points to the Targe
 * Use the images found in the assets folder as reference. Note that these are hand-drawn to give you an idea of the arrowhead, you should not take them literally.
 
 
-  Message Charles on Discord with questions and results: cfb3
+### Message Charles on Discord with questions and results: cfb3
 
